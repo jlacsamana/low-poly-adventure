@@ -1,0 +1,18 @@
+{
+  "Test Arrow": {
+    "Item Name": "Test Arrow",
+    "Type": "Weapon",
+    "Weapon Type": "Ammunition",
+    "Ammunition Type": "Bow Ammo",
+    "Physical Damage": 0,
+    "Item Description": "A simple wooden Arrow"
+  },
+  "Test Bolt": {
+    "Item Name": "Test Bolt",
+    "Type": "Weapon",
+    "Weapon Type": "Ammunition",
+    "Ammunition Type": "Crossbow Ammo",
+    "Physical Damage": 0,
+    "Item Description": "A simple iron crossbow bolt"
+  }
+}

@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Humanoid Vertical Rotation Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Humanoid_Armature
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_leg_L_002
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_leg_L_002/upper_foot_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_leg_L_002/upper_foot_L_001/lower_foot_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_leg_R_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_leg_R_001/upper_foot_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_leg_R_001/upper_foot_R/lower_foot_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine
+    m_Weight: 1
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine
+    m_Weight: 1
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001/hand_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001/hand_L_001/upper_2nd_finger_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001/hand_L_001/upper_2nd_finger_L_001/middle_2nd_finger_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001/hand_L_001/upper_2nd_finger_L_001/middle_2nd_finger_L_001/lower_2nd_finger_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001/hand_L_001/upper_index_finger_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001/hand_L_001/upper_index_finger_L_001/middle_index_finger_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001/hand_L_001/upper_index_finger_L_001/middle_index_finger_L_001/lower_index_finger_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001/hand_L_001/upper_middle_finger_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001/hand_L_001/upper_middle_finger_L_001/middle_middle_finger_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001/hand_L_001/upper_middle_finger_L_001/middle_middle_finger_L_001/lower_middle_finger_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001/hand_L_001/upper_pinkie_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001/hand_L_001/upper_pinkie_L_001/middle_pinkie_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001/hand_L_001/upper_pinkie_L_001/middle_pinkie_L_001/lower_pinkie_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001/hand_L_001/upper_thumb_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_L_001/lower_arm_L_001/hand_L_001/upper_thumb_L_001/lower_thumb_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R/hand_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R/hand_R/upper_2nd_finger_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R/hand_R/upper_2nd_finger_R/middle_2nd_finger_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R/hand_R/upper_2nd_finger_R/middle_2nd_finger_R/lower_2nd_finger_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R/hand_R/upper_index_finger_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R/hand_R/upper_index_finger_R/middle_index_finger_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R/hand_R/upper_index_finger_R/middle_index_finger_R/lower_index_finger_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R/hand_R/upper_middle_finger_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R/hand_R/upper_middle_finger_R/middle_middle_finger_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R/hand_R/upper_middle_finger_R/middle_middle_finger_R/lower_middle_finger_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R/hand_R/upper_pinkie_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R/hand_R/upper_pinkie_R/middle_pinkie_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R/hand_R/upper_pinkie_R/middle_pinkie_R/lower_pinkie_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R/hand_R/upper_thumb_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_arm_R/lower_arm_R/hand_R/upper_thumb_R/lower_thumb_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_spine_018
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/middle_spine/upper_spine/upper_spine_018/upper_spine_019
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/upper_leg_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/upper_leg_L_001/lower_leg_L_001
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/upper_leg_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/lower_spine/upper_leg_R/lower_leg_R
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/pole_L
+    m_Weight: 0
+  - m_Path: Humanoid_Armature/pole_R
+    m_Weight: 0
+  - m_Path: Humanoid_Model
+    m_Weight: 0

@@ -1,0 +1,28 @@
+{
+  "NULL Debug Consumable": {
+    "Item Name": "Debug Consumable",
+    "Type": "Consumable",
+    "Item Description": "Debug Consumable. Nothing else",
+	"Effect Type": ["Duration"],
+    "Effect Name": ["No Duration Effect"],
+	"Effect Target": ["Enemy"],
+    "Effect Chance": [0],
+	"Effect Duration":[0],
+	"Health": 0,
+    "Stamina": 0,
+    "Mana": 0
+  }, 
+  "Debug Consumable": {
+    "Item Name": "Debug Consumable",
+    "Type": "Consumable",
+    "Item Description": "Debug Consumable. Nothing else",
+	"Effect Type": ["Duration"],
+    "Effect Name": ["No Duration Effect"],
+	"Effect Target": ["Enemy"],
+    "Effect Chance": [0],
+	"Effect Duration":[0],
+	"Health": 0,
+    "Stamina": 0,
+    "Mana": 0
+  }
+}

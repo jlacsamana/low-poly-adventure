@@ -1,0 +1,32 @@
+{
+  "No Greaves": {
+    "Item Name": "No Greaves",
+    "Type": "Armor",
+    "Armor Type": "Legs",
+    "Physical Damage": 0,
+    "Magical Damage": 0,
+    "Critical Chance": 0,
+    "Armor": 0,
+    "Magic Resistance": 0,
+    "Health": 0,
+    "Stamina": 0,
+    "Mana": 0,
+    "Speed": 0,
+    "Item Description": "No Pants. Nothing else"
+  },
+  "Test Greaves": {
+    "Item Name": "Test Greaves",
+    "Type": "Armor",
+    "Armor Type": "Legs",
+    "Physical Damage": 0,
+    "Magical Damage": 0,
+    "Critical Chance": 0,
+    "Armor": 0,
+    "Magic Resistance": 0,
+    "Health": 0,
+    "Stamina": 0,
+    "Mana": 0,
+    "Speed": 0,
+    "Item Description": "Debug Pants. Nothing else"
+  }
+}

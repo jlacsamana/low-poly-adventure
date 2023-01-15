@@ -1,0 +1,42 @@
+{
+  "No Shield": {
+    "Item Name": "Test Shield",
+    "Type": "Weapon",
+    "Weapon Type": "Shield",
+    "Combat Type": "Shield",
+    "Physical Damage": 0,
+    "Magical Damage": 0,
+    "Critical Chance": 0,
+    "Armor": 0,
+    "Magic Resistance": 0,
+    "Health": 0,
+    "Stamina": 0,
+    "Mana": 0,
+    "Speed": 0,
+	"Shield Durability": 100,
+    "Item Description": "Debug shield. Nothing else",
+    "Effect Type": "Duration",
+    "Effect Name": "Test Duration Effect",
+    "Effect Chance": 0
+  },
+  "Test Shield": {
+    "Item Name": "Test Shield",
+    "Type": "Weapon",
+    "Weapon Type": "Shield",
+    "Combat Type": "Shield",
+    "Physical Damage": 0,
+    "Magical Damage": 0,
+    "Critical Chance": 0,
+    "Armor": 0,
+    "Magic Resistance": 0,
+    "Health": 0,
+    "Stamina": 0,
+    "Mana": 0,
+    "Speed": 0,
+	"Shield Durability": 100,
+    "Item Description": "Debug shield. Nothing else",
+    "Effect Type": "Duration",
+    "Effect Name": "Test Duration Effect",
+    "Effect Chance": 0
+  }
+}

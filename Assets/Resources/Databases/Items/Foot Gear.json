@@ -1,0 +1,32 @@
+{
+  "No Boots": {
+    "Item Name": "No Boots",
+    "Type": "Armor",
+    "Armor Type": "Foot",
+    "Physical Damage": 0,
+    "Magical Damage": 0,
+    "Critical Chance":  0,
+    "Armor": 0,
+    "Magic Resistance": 0,
+    "Health": 0,
+    "Stamina": 0,
+    "Mana": 0,
+    "Speed": 0,
+    "Item Description": "No Boots. Nothing else"
+  },
+  "Test Boots": {
+    "Item Name": "Test Boots",
+    "Type": "Armor",
+    "Armor Type": "Foot",
+    "Physical Damage": 0,
+    "Magical Damage": 0,
+    "Critical Chance": 0,
+    "Armor": 0,
+    "Magic Resistance": 0,
+    "Health": 0,
+    "Stamina": 0,
+    "Mana": 0,
+    "Speed": 0,
+    "Item Description": "Debug Boots. Nothing else"
+  }
+}

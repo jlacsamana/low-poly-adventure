@@ -1,0 +1,17 @@
+{
+  "No Buff Effect": {
+    "Effect Name": "No Buff Effect",
+    "Effect Type": "Status",
+    "EntityPhysDmgChange": 0,
+    "EntityMagDmgChange": 0,
+    "EntitySpeedChange": 0,
+    "CriticalChanceChange": 0,
+	"ArmorChange": 0,
+	"MagicalArmorChange": 0,
+    "Stackable": false
+    }
+
+
+
+
+}
