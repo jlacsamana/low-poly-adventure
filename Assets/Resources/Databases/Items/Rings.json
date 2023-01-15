@@ -1,0 +1,32 @@
+{
+  "No Ring": {
+    "Item Name": "No Ring",
+    "Type": "Armor",
+    "Armor Type": "Ring",
+    "Physical Damage": 0,
+    "Magical Damage": 0,
+    "Critical Chance": 0,
+    "Armor": 0,
+    "Magic Resistance": 0,
+    "Health": 0,
+    "Stamina": 0,
+    "Mana": 0,
+    "Speed": 0,
+    "Item Description": "No ring. Nothing else"
+  },
+  "Test Ring": {
+    "Item Name": "Test Ring",
+    "Type": "Armor",
+    "Armor Type": "Ring",
+    "Physical Damage": 0,
+    "Magical Damage": 0,
+    "Critical Chance": 0,
+    "Armor": 0,
+    "Magic Resistance": 0,
+    "Health": 0,
+    "Stamina": 0,
+    "Mana": 0,
+    "Speed": 0,
+    "Item Description": "Debug ring. Nothing else"
+  }
+  }

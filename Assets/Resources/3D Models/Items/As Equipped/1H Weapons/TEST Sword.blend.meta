@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 7f241d47fc7bc884a9655816892884ba
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: hand_L_001
+    100002: hand_R
+    100004: Humanoid_Armature
+    100006: lower_2nd_finger_L_001
+    100008: lower_2nd_finger_R
+    100010: lower_arm_L_001
+    100012: lower_arm_R
+    100014: lower_foot_L_001
+    100016: lower_foot_R
+    100018: lower_index_finger_L_001
+    100020: lower_index_finger_R
+    100022: lower_leg_L_001
+    100024: lower_leg_L_002
+    100026: lower_leg_R
+    100028: lower_leg_R_001
+    100030: lower_middle_finger_L_001
+    100032: lower_middle_finger_R
+    100034: lower_pinkie_L_001
+    100036: lower_pinkie_R
+    100038: lower_spine
+    100040: lower_thumb_L_001
+    100042: lower_thumb_R
+    100044: middle_2nd_finger_L_001
+    100046: middle_2nd_finger_R
+    100048: middle_index_finger_L_001
+    100050: middle_index_finger_R
+    100052: middle_middle_finger_L_001
+    100054: middle_middle_finger_R
+    100056: middle_pinkie_L_001
+    100058: middle_pinkie_R
+    100060: middle_spine
+    100062: pole_L
+    100064: pole_R
+    100066: Sword
+    100068: //RootNode
+    100070: upper_2nd_finger_L_001
+    100072: upper_2nd_finger_R
+    100074: upper_arm_L_001
+    100076: upper_arm_R
+    100078: upper_foot_L_001
+    100080: upper_foot_R
+    100082: upper_index_finger_L_001
+    100084: upper_index_finger_R
+    100086: upper_leg_L_001
+    100088: upper_leg_R
+    100090: upper_middle_finger_L_001
+    100092: upper_middle_finger_R
+    100094: upper_pinkie_L_001
+    100096: upper_pinkie_R
+    100098: upper_spine
+    100100: upper_spine_018
+    100102: upper_spine_019
+    100104: upper_thumb_L_001
+    100106: upper_thumb_R
+    400000: hand_L_001
+    400002: hand_R
+    400004: Humanoid_Armature
+    400006: lower_2nd_finger_L_001
+    400008: lower_2nd_finger_R
+    400010: lower_arm_L_001
+    400012: lower_arm_R
+    400014: lower_foot_L_001
+    400016: lower_foot_R
+    400018: lower_index_finger_L_001
+    400020: lower_index_finger_R
+    400022: lower_leg_L_001
+    400024: lower_leg_L_002
+    400026: lower_leg_R
+    400028: lower_leg_R_001
+    400030: lower_middle_finger_L_001
+    400032: lower_middle_finger_R
+    400034: lower_pinkie_L_001
+    400036: lower_pinkie_R
+    400038: lower_spine
+    400040: lower_thumb_L_001
+    400042: lower_thumb_R
+    400044: middle_2nd_finger_L_001
+    400046: middle_2nd_finger_R
+    400048: middle_index_finger_L_001
+    400050: middle_index_finger_R
+    400052: middle_middle_finger_L_001
+    400054: middle_middle_finger_R
+    400056: middle_pinkie_L_001
+    400058: middle_pinkie_R
+    400060: middle_spine
+    400062: pole_L
+    400064: pole_R
+    400066: Sword
+    400068: //RootNode
+    400070: upper_2nd_finger_L_001
+    400072: upper_2nd_finger_R
+    400074: upper_arm_L_001
+    400076: upper_arm_R
+    400078: upper_foot_L_001
+    400080: upper_foot_R
+    400082: upper_index_finger_L_001
+    400084: upper_index_finger_R
+    400086: upper_leg_L_001
+    400088: upper_leg_R
+    400090: upper_middle_finger_L_001
+    400092: upper_middle_finger_R
+    400094: upper_pinkie_L_001
+    400096: upper_pinkie_R
+    400098: upper_spine
+    400100: upper_spine_018
+    400102: upper_spine_019
+    400104: upper_thumb_L_001
+    400106: upper_thumb_R
+    2100000: unnamed
+    4300000: Sword
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Sword
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

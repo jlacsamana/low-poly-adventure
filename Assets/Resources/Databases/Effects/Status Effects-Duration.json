@@ -1,0 +1,17 @@
+{
+  "No Duration Effect": {
+    "Effect Name": "No Duration Effect",
+    "Effect Type": "Duration",
+    "EntityHealthChange": 0,
+    "EntityStaminaChange": 0,
+    "EntityManaChange": 0,
+    "Stackable": false
+  }
+  }
+
+
+
+
+    
+
+}

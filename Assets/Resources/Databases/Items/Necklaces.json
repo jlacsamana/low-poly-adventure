@@ -1,0 +1,32 @@
+{
+  "No Necklace": {
+    "Item Name": "No Necklace",
+    "Type": "Armor",
+    "Armor Type": "Necklace",
+    "Physical Damage": 0,
+    "Magical Damage": 0,
+    "Critical Chance": 0,
+    "Armor": 0,
+    "Magic Resistance": 0,
+    "Health": 0,
+    "Stamina": 0,
+    "Mana": 0,
+    "Speed": 0,
+    "Item Description": "No Necklace. Nothing else"
+  },
+  "Test Necklace": {
+    "Item Name": "Test Necklace",
+    "Type": "Armor",
+    "Armor Type": "Necklace",
+    "Physical Damage": 0,
+    "Magical Damage": 0,
+    "Critical Chance": 0,
+    "Armor": 0,
+    "Magic Resistance": 0,
+    "Health": 0,
+    "Stamina": 0,
+    "Mana": 0,
+    "Speed": 0,
+    "Item Description": "Debug Necklace. Nothing else"
+  }
+}

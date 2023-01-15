@@ -1,0 +1,12 @@
+{
+  "NULL Debug Quest Item": {
+    "Item Name": "Debug Quest Item",
+    "Type": "Quest Item",
+    "Item Description": "A debug quest item"
+  },
+  "Debug Quest Item": {
+    "Item Name": "Debug Quest Item",
+    "Type": "Quest Item",
+    "Item Description": "A debug quest item"
+  }
+}

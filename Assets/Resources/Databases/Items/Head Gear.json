@@ -1,0 +1,32 @@
+{
+  "No Helmet": {
+    "Item Name": "No Helmet",
+    "Type": "Armor",
+    "Armor Type": "Head",
+    "Physical Damage": 0,
+    "Magical Damage": 0,
+    "Critical Chance": 0,
+    "Armor": 0,
+    "Magic Resistance": 0,
+    "Health": 0,
+    "Stamina": 0,
+    "Mana": 0,
+    "Speed": 0,
+    "Item Description": "No Helmet. Nothing else"
+  },
+  "Test Helmet": {
+    "Item Name": "Test Helmet",
+    "Type": "Armor",
+    "Armor Type": "Head",
+    "Physical Damage": 0,
+    "Magical Damage": 0,
+    "Critical Chance": 0,
+    "Armor": 0,
+    "Magic Resistance": 0,
+    "Health": 0,
+    "Stamina": 0,
+    "Mana": 0,
+    "Speed": 0,
+    "Item Description": "Debug Helmet. Nothing else"
+  }
+}

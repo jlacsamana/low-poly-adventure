@@ -1,0 +1,12 @@
+{
+  "NULL Debug Material": {
+    "Item Name": "Debug Material",
+    "Type": "Raw Material",
+    "Item Description": "Debug material. Nothing else"
+  },
+  "Debug Material": {
+    "Item Name": "Debug Material",
+    "Type": "Raw Material",
+    "Item Description": "Debug material. Nothing else"
+  }
+}

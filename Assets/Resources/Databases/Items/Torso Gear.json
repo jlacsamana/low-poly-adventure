@@ -1,0 +1,32 @@
+{
+  "No ChestPlate": {
+    "Item Name": "No ChestPlate",
+    "Type": "Armor",
+    "Armor Type": "Chest",
+    "Physical Damage": 0,
+    "Magical Damage": 0,
+    "Critical Chance": 0,
+    "Armor": 0,
+    "Magic Resistance": 0,
+    "Health": 0,
+    "Stamina": 0,
+    "Mana": 0,
+    "Speed": 0,
+    "Item Description": "No shirt"
+  },
+  "Test ChestPlate": {
+    "Item Name": "Test ChestPlate",
+    "Type": "Armor",
+    "Armor Type": "Chest",
+    "Physical Damage": 0,
+    "Magical Damage": 0,
+    "Critical Chance": 0,
+    "Armor": 0,
+    "Magic Resistance": 5,
+    "Health": 0,
+    "Stamina": 0,
+    "Mana": 0,
+    "Speed": 0,
+    "Item Description": "Debug shirt. Nothing else"
+  }
+}
